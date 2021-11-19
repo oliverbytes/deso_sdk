@@ -30,7 +30,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/DeverseSocial/deso_sdk">
-    <!-- <img src="assets/images/app_icon.png" alt="Logo" width="80" height="80"> -->
+    <img src="images/deso.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">DeSo Dart SDK</h3>
@@ -62,6 +62,12 @@
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
 
+
+## About The Project
+
+### MOCKED SCREENSHOT
+
+[![Playground Desktop App][screenshots-desktop]](https://github.com/DeverseSocial/deso_sdk)
 
 ### Supported Platforms
 - iOS
@@ -172,5 +178,4 @@ Project Link: [https://github.com/DeverseSocial/deso_sdk](https://github.com/Dev
 [license-url]: https://github.com/DeverseSocial/deso_sdk/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/nemoryoliver
-[screenshots-mobile]: images/screenshots_mobile.jpg
-[screenshots-desktop]: images/screenshots_desktop.jpg
+[screenshots-desktop]: images/screenshots_desktop.png

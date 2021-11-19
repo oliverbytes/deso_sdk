@@ -65,7 +65,9 @@
 
 ## About The Project
 
-### MOCKED SCREENSHOT
+This is the 1st unofficial Dart SDK for DeSo. 
+
+### EXAMPLE PROJECT SCREENSHOT
 
 [![Playground Desktop App][screenshots-desktop]](https://github.com/DeverseSocial/deso_sdk)
 
@@ -114,6 +116,32 @@ flutter run
 <!-- USAGE EXAMPLES -->
 ## Usage
 
+// Instantiate DeSo SDK Object
+final deso = Deso();
+
+// Optional - Set DeSo Node host
+deso.client.init(
+  host: 'diamondapp.com',
+  apiVersion: 0,
+);
+
+debugPrint('requesting...');
+final result = await deso.general.appState();
+
+result.fold(
+  (apiError) {
+    // ERROR
+    final text = apiError.toJson().toString();
+    debugPrint(text);
+  },
+  (object) {
+    // SUCCESS
+    final text = object.toJson().toString();
+    debugPrint(text);
+  },
+);
+
+debugPrint('request done');
 
 <!-- ROADMAP -->
 ## Roadmap

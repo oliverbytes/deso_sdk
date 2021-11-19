@@ -117,6 +117,9 @@ flutter run
 ## Usage
 
 ```dart
+// Import DeSo SDK
+import 'package:deso_sdk/deso_sdk.dart';
+
 // Instantiate DeSo SDK Object
 final deso = Deso();
 

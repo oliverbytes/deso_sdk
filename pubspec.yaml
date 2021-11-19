@@ -1,6 +1,6 @@
 name: deso_sdk
 description: Unofficial Dart SDK for Decentralized Social / DeSo.org
-version: 0.1.0+1
+version: 0.1.0+2
 homepage: https://github.com/DeverseSocial/deso_sdk
 
 environment:

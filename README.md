@@ -116,6 +116,7 @@ flutter run
 <!-- USAGE EXAMPLES -->
 ## Usage
 
+```dart
 // Instantiate DeSo SDK Object
 final deso = Deso();
 
@@ -142,6 +143,7 @@ result.fold(
 );
 
 debugPrint('request done');
+```
 
 <!-- ROADMAP -->
 ## Roadmap

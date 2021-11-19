@@ -30,7 +30,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/DeverseSocial/deso_sdk">
-    <img src="assets/images/app_icon.png" alt="Logo" width="80" height="80">
+    <!-- <img src="assets/images/app_icon.png" alt="Logo" width="80" height="80"> -->
   </a>
 
   <h3 align="center">DeSo Dart SDK</h3>
@@ -151,6 +151,8 @@ Project Link: [https://github.com/DeverseSocial/deso_sdk](https://github.com/Dev
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [DeSo](https://deso.org)
+* [BitClout](https://bitclout.com)
+* [DiamondApp](https://diamondapp.com)
 
 
 

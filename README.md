@@ -29,8 +29,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/DeverseSocial/deso_sdk">
-    <img src="images/deso.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/oliverbytes/deso_sdk">
+    <img src="https://github.com/oliverbytes/deso_sdk/raw/master/images/deso.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">DeSo Dart SDK</h3>
@@ -39,9 +39,9 @@
     Unofficial Dart SDK for Decentralized Social / DeSo.org
     <br />
     <br />
-    <a href="https://github.com/DeverseSocial/deso_sdk/issues">Report Bug</a>
+    <a href="https://github.com/oliverbytes/deso_sdk/issues">Report Bug</a>
     ·
-    <a href="https://github.com/DeverseSocial/deso_sdk/issues">Request Feature</a>
+    <a href="https://github.com/oliverbytes/deso_sdk/issues">Request Feature</a>
   </p>
 </p>
 
@@ -69,7 +69,7 @@ This is the 1st unofficial Dart SDK for DeSo.
 
 ### EXAMPLE PROJECT SCREENSHOT
 
-[![Playground Desktop App][screenshots-desktop]](https://github.com/DeverseSocial/deso_sdk)
+[![Playground Desktop App][screenshots-desktop]](https://github.com/oliverbytes/deso_sdk)
 
 ### Supported Platforms
 - iOS
@@ -100,7 +100,7 @@ Google Flutter SDK
 
 1. Clone the repo
 ```sh
-git clone https://github.com/DeverseSocial/deso_sdk.git
+git clone https://github.com/oliverbytes/deso_sdk.git
 ```
 2. Install packages dependencies
 ```
@@ -154,7 +154,7 @@ debugPrint('request done');
 * Complete API
 * Unit Testing
 
-See the [open issues](https://github.com/DeverseSocial/deso_sdk/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/oliverbytes/deso_sdk/issues) for a list of proposed features (and known issues).
 
 
 
@@ -181,9 +181,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Oliver Martinez - [@nemoryoliver](https://twitter.com/nemoryoliver) - nemoryoliver@gmail.com
+Oliver Martinez - [@oliverbytes](https://twitter.com/oliverbytes) - nemoryoliver@gmail.com
 
-Project Link: [https://github.com/DeverseSocial/deso_sdk](https://github.com/DeverseSocial/deso_sdk)
+Project Link: [https://github.com/oliverbytes/deso_sdk](https://github.com/oliverbytes/deso_sdk)
 
 
 
@@ -199,16 +199,16 @@ Project Link: [https://github.com/DeverseSocial/deso_sdk](https://github.com/Dev
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/DeverseSocial/deso_sdk.svg?style=flat-square
-[contributors-url]: https://github.com/DeverseSocial/deso_sdk/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/DeverseSocial/deso_sdk.svg?style=flat-square
-[forks-url]: https://github.com/DeverseSocial/deso_sdk/network/members
-[stars-shield]: https://img.shields.io/github/stars/DeverseSocial/deso_sdk.svg?style=flat-square
-[stars-url]: https://github.com/DeverseSocial/deso_sdk/stargazers
-[issues-shield]: https://img.shields.io/github/issues/DeverseSocial/deso_sdk.svg?style=flat-square
-[issues-url]: https://github.com/DeverseSocial/deso_sdk/issues
-[license-shield]: https://img.shields.io/github/license/DeverseSocial/deso_sdk.svg?style=flat-square
-[license-url]: https://github.com/DeverseSocial/deso_sdk/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/oliverbytes/deso_sdk.svg?style=flat-square
+[contributors-url]: https://github.com/oliverbytes/deso_sdk/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/oliverbytes/deso_sdk.svg?style=flat-square
+[forks-url]: https://github.com/oliverbytes/deso_sdk/network/members
+[stars-shield]: https://img.shields.io/github/stars/oliverbytes/deso_sdk.svg?style=flat-square
+[stars-url]: https://github.com/oliverbytes/deso_sdk/stargazers
+[issues-shield]: https://img.shields.io/github/issues/oliverbytes/deso_sdk.svg?style=flat-square
+[issues-url]: https://github.com/oliverbytes/deso_sdk/issues
+[license-shield]: https://img.shields.io/github/license/oliverbytes/deso_sdk.svg?style=flat-square
+[license-url]: https://github.com/oliverbytes/deso_sdk/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/nemoryoliver
+[linkedin-url]: https://linkedin.com/in/oliverbytes
 [screenshots-desktop]: images/screenshots_desktop.png

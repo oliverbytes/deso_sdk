@@ -98,8 +98,9 @@ class Post {
         isHidden: json["IsHidden"],
         confirmationBlockHeight: json["ConfirmationBlockHeight"],
         inMempool: json["InMempool"],
-        profileEntryResponse:
-            json["Profile"] == null ? null : Profile.fromJson(json["Profile"]),
+        profileEntryResponse: json["ProfileEntryResponse"] == null
+            ? null
+            : Profile.fromJson(json["ProfileEntryResponse"]),
         comments: json["Comments"] == null
             ? List.empty()
             : List<Comment>.from(json["Comments"].map((x) => x)),
